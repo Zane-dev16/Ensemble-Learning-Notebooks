@@ -5,8 +5,8 @@ This repository contains a collection of Jupyter notebooks that break down a var
 
 The following notebooks can be found in the `notebooks/` directory:
 
-- **voting_stacking.ipynb**: Covers Voting Classifier and Stacking ensemble learning methods.
-- **bagging_pasting.ipynb**: Covers Bagging and Pasting ensemble learning methods.
+- **voting_and_stacking.ipynb**: Covers Voting Classifier and Stacking ensemble learning methods.
+- **bagging_and_pasting.ipynb**: Covers Bagging and Pasting ensemble learning methods.
 - **random_forests.ipynb**: Covers Random Forests, a popular ensemble learning method.
 - **boosting.ipynb**: Covers Boosting ensemble learning method.
 
