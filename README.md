@@ -1,5 +1,6 @@
 # Ensemble-Learning-Notebooks
-This repository contains a collection of Jupyter notebooks that break down a variety of ensemble learning methods. This includes the very popularly used random forest.
+This repository contains a collection of Jupyter notebooks each covering different ensemble learning methods. We then tackle several datasets using these methods and evaluate the results.
+Many of the notebooks get under the hood and break down several of these ensemble learning methods.
 
 ## Notebook Categories
 
